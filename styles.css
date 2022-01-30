@@ -1,0 +1,8 @@
+head {font: Open Sans}
+header {border-bottom: 1px cyan solid; color: white; background-color: #004175;border-color: #89DEEF;}
+p {font-weight: bold}
+h5 {font-size: large;}
+html {font-family: sans-serif;}
+.traits {background-color: #89DEEF;
+    display: flex;
+    flex-wrap: wrap;}
